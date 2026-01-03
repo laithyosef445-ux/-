@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Nexus AI OS",
+  "description": "The ultimate AI platform integrating Gemini 3 Pro reasoning, Veo Cinema, and Multi-Speaker TTS Studio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
